@@ -1,0 +1,12 @@
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_DELIVERY_SERVICE_BANGLADESH\bin\Debug\Database1.mdf
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_DELIVERY_SERVICE_BANGLADESH\bin\Debug\Database1_log.ldf
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_DELIVERY_SERVICE_BANGLADESH\bin\Debug\UPS_DELIVERY_SERVICE_BANGLADESH.exe.config
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_DELIVERY_SERVICE_BANGLADESH\bin\Debug\UPS_DELIVERY_SERVICE_BANGLADESH.exe
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_DELIVERY_SERVICE_BANGLADESH\bin\Debug\UPS_DELIVERY_SERVICE_BANGLADESH.pdb
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_DELIVERY_SERVICE_BANGLADESH\obj\Debug\UPS_DELIVERY_SERVICE_BANGLADESH.csprojAssemblyReference.cache
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_DELIVERY_SERVICE_BANGLADESH\obj\Debug\UPS_DELIVERY_SERVICE_BANGLADESH.Form1.resources
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_DELIVERY_SERVICE_BANGLADESH\obj\Debug\UPS_DELIVERY_SERVICE_BANGLADESH.Properties.Resources.resources
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_DELIVERY_SERVICE_BANGLADESH\obj\Debug\UPS_DELIVERY_SERVICE_BANGLADESH.csproj.GenerateResource.cache
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_DELIVERY_SERVICE_BANGLADESH\obj\Debug\UPS_DELIVERY_SERVICE_BANGLADESH.csproj.CoreCompileInputs.cache
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_DELIVERY_SERVICE_BANGLADESH\obj\Debug\UPS_DELIVERY_SERVICE_BANGLADESH.exe
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_DELIVERY_SERVICE_BANGLADESH\obj\Debug\UPS_DELIVERY_SERVICE_BANGLADESH.pdb

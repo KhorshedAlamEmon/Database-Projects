@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPS_DELIVERY_SERVICE_BANGLADESH", "UPS_DELIVERY_SERVICE_BANGLADESH.csproj", "{CD3E5C1B-5602-4C85-94B8-6CAED3C83D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3E5C1B-5602-4C85-94B8-6CAED3C83D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3E5C1B-5602-4C85-94B8-6CAED3C83D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3E5C1B-5602-4C85-94B8-6CAED3C83D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3E5C1B-5602-4C85-94B8-6CAED3C83D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {109DDC72-619F-410A-A162-A1AFFFEE037B}
+	EndGlobalSection
+EndGlobal
