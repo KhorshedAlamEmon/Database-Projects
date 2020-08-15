@@ -1,0 +1,15 @@
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\bin\Debug\Database1.mdf
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\bin\Debug\Database1_log.ldf
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\bin\Debug\UPS_Delivery_Service_Database.exe.config
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\bin\Debug\UPS_Delivery_Service_Database.exe
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\bin\Debug\UPS_Delivery_Service_Database.pdb
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\obj\Debug\UPS_Delivery_Service_Database.csprojAssemblyReference.cache
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\obj\Debug\UPS_Delivery_Service_Database.Form1.resources
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\obj\Debug\UPS_Delivery_Service_Database.Properties.Resources.resources
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\obj\Debug\UPS_Delivery_Service_Database.csproj.GenerateResource.cache
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\obj\Debug\UPS_Delivery_Service_Database.csproj.CoreCompileInputs.cache
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\obj\Debug\UPS_Delivery_Service_Database.exe
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\obj\Debug\UPS_Delivery_Service_Database.pdb
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\obj\Debug\UPS_Delivery_Service_Database.Form2.resources
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\obj\Debug\UPS_Delivery_Service_Database.Form3.resources
+E:\Dot Net Framework projects\Database APPlications\Local SQL Database project\UPS_Delivery_Service_Database\obj\Debug\UPS_Delivery_Service_Database.Form4.resources
