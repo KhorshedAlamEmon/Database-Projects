@@ -1,0 +1,11 @@
+E:\Dot Net Framework projects\pc soft\windows forms\Student_Manahement_Software\bin\Debug\Student_Manahement_Software.exe.config
+E:\Dot Net Framework projects\pc soft\windows forms\Student_Manahement_Software\bin\Debug\Student_Manahement_Software.exe
+E:\Dot Net Framework projects\pc soft\windows forms\Student_Manahement_Software\bin\Debug\Student_Manahement_Software.pdb
+E:\Dot Net Framework projects\pc soft\windows forms\Student_Manahement_Software\obj\Debug\Student_Manahement_Software.csprojAssemblyReference.cache
+E:\Dot Net Framework projects\pc soft\windows forms\Student_Manahement_Software\obj\Debug\Student_Manahement_Software.Form1.resources
+E:\Dot Net Framework projects\pc soft\windows forms\Student_Manahement_Software\obj\Debug\Student_Manahement_Software.Form2.resources
+E:\Dot Net Framework projects\pc soft\windows forms\Student_Manahement_Software\obj\Debug\Student_Manahement_Software.Properties.Resources.resources
+E:\Dot Net Framework projects\pc soft\windows forms\Student_Manahement_Software\obj\Debug\Student_Manahement_Software.csproj.GenerateResource.cache
+E:\Dot Net Framework projects\pc soft\windows forms\Student_Manahement_Software\obj\Debug\Student_Manahement_Software.csproj.CoreCompileInputs.cache
+E:\Dot Net Framework projects\pc soft\windows forms\Student_Manahement_Software\obj\Debug\Student_Manahement_Software.exe
+E:\Dot Net Framework projects\pc soft\windows forms\Student_Manahement_Software\obj\Debug\Student_Manahement_Software.pdb
